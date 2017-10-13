@@ -1,1 +1,2 @@
-# AssignmentsOfThe1stSemester
+# 计算机导论与程序设计基础 - 第一学期
+一只学猹的作业仓库。
