@@ -7,7 +7,6 @@ void swap(double *, double *);
 
 int main(){
     double a, b, c, delta;
-
     scanf("%lf%lf%lf", &a, &b, &c);
 
     if(equal(a, 0)){
